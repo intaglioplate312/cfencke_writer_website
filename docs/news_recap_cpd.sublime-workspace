@@ -1,0 +1,712 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"trai",
+				"trainfrequency"
+			],
+			[
+				"tra",
+				"trainfrequency"
+			],
+			[
+				"tr",
+				"trainfrequency"
+			],
+			[
+				"tin",
+				"timeDifference"
+			],
+			[
+				"rem",
+				"remainingTime"
+			],
+			[
+				"ne",
+				"nextTrain"
+			],
+			[
+				"li",
+				"livereload\tInsert livereload.js script"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ligh",
+				"line-height"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"pro",
+				"proteinbar"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"e",
+				"example"
+			],
+			[
+				"replace",
+				"replaceWith"
+			],
+			[
+				"new",
+				"newItem"
+			],
+			[
+				"pr",
+				"proteinbar"
+			],
+			[
+				"m",
+				"mineralwater"
+			],
+			[
+				"data",
+				"data-type"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"nth",
+				"nth-child"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"U",
+				"uppercase"
+			],
+			[
+				"B",
+				"bolder"
+			],
+			[
+				"wid",
+				"min-width"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"src",
+				"srcset"
+			],
+			[
+				"ma",
+				"makeSrcset"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"im",
+				"imgSrc"
+			],
+			[
+				"b",
+				"borderColor"
+			],
+			[
+				"tes",
+				"testWrapper"
+			],
+			[
+				"tim",
+				"timerRunning"
+			],
+			[
+				"test",
+				"testWrapper"
+			],
+			[
+				"o",
+				"originText"
+			],
+			[
+				"te",
+				"textEnteredLength"
+			],
+			[
+				"res",
+				"resetButton"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"mi",
+				"missedAnswer"
+			],
+			[
+				"correct",
+				"correctAnswer"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"ran",
+				"random-button"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"ra",
+				"random-button"
+			],
+			[
+				"lo",
+				"lottoNumber"
+			],
+			[
+				"pbj",
+				"pbjCounter"
+			],
+			[
+				"drin",
+				"drinkDiv"
+			],
+			[
+				"drink",
+				"drinkList"
+			],
+			[
+				"dri",
+				"drink-options"
+			],
+			[
+				"dr",
+				"driveAroundWorld"
+			],
+			[
+				"is",
+				"isWorking"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"corr",
+				"correctAnswer"
+			],
+			[
+				"co",
+				"correctAnswer"
+			],
+			[
+				"a",
+				"addEventListener"
+			],
+			[
+				"hr",
+				"hrPosition"
+			],
+			[
+				"sec",
+				"secPosition"
+			],
+			[
+				"ho",
+				"hrPosition"
+			],
+			[
+				"cap",
+				"captionElement"
+			],
+			[
+				"ca",
+				"captionElement"
+			],
+			[
+				"capt",
+				"captionText"
+			],
+			[
+				"catio",
+				"captionElement"
+			],
+			[
+				"c",
+				"CTAElEMENT"
+			],
+			[
+				"fra",
+				"fractionResult"
+			],
+			[
+				"sp",
+				"script\tTag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"th",
+				"threeFour"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"letter",
+				"letterToGuess"
+			],
+			[
+				"upd",
+				"updateLetterToGuess"
+			],
+			[
+				"computer",
+				"computerChoices"
+			],
+			[
+				"con",
+				"align-content"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"link",
+				"linkedin"
+			],
+			[
+				"mast",
+				"mast_box"
+			],
+			[
+				"h",
+				"h6\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"hit",
+				"height"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"fotn",
+				"font-size"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"bordre",
+				"border-color"
+			],
+			[
+				"hi",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"emmet",
+				"Emmet: Previous Edit Point"
+			],
+			[
+				"Package Control instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/OLDHELEN/Desktop/Crystal/sample1.html",
+		"/Users/OLDHELEN/Desktop/Crystal/sample2.html",
+		"/Users/OLDHELEN/Desktop/Crystal/index.html",
+		"/Users/OLDHELEN/Desktop/catfinearts.com/public/assets/css/style.css",
+		"/Users/OLDHELEN/Desktop/Exhibition Resume.fld/filelist.xml",
+		"/Users/OLDHELEN/Downloads/Flag_of_Canada_(Pantone).svg",
+		"/Users/OLDHELEN/Desktop/Inspiration/Laser Cut/birthday test.svg",
+		"/Users/OLDHELEN/Desktop/Bootcamp/studious_broccoli_react/client/components/App.jsx",
+		"/Users/OLDHELEN/Desktop/reactjs-authentication-tutorial/src/index.css",
+		"/Users/OLDHELEN/Desktop/reactjs-authentication-tutorial/src/App.css",
+		"/Users/OLDHELEN/Desktop/Bootcamp/webpacked_art_map/client/components/App.jsx",
+		"/Users/OLDHELEN/Downloads/hello-world-react-master/client/components/App.jsx",
+		"/Users/OLDHELEN/Desktop/best guess/client/components/App.jsx",
+		"/Users/OLDHELEN/Desktop/scrape/MongooseNewsScraper-master copy/public/css/bootstrap.css",
+		"/Users/OLDHELEN/Desktop/scrape/working Model-- Scraper-master/routes/routes.js",
+		"/Users/OLDHELEN/Desktop/Bootcamp/chicago_public_art/public/assets/css/style.css",
+		"/Users/OLDHELEN/Sites/50/css/50.css",
+		"/Users/OLDHELEN/Sites/50/50.css",
+		"/Users/OLDHELEN/Desktop/Bootcamp/vigilant_telegram_pro2/public/assets/css/style.css",
+		"/Users/OLDHELEN/Desktop/burger/1_giggle/public/assets/css/burger_style.css",
+		"/Users/OLDHELEN/Desktop/Bootcamp/fantastic-octo-giggle-burger/db/schema.mssql",
+		"/Users/OLDHELEN/Desktop/Bootcamp/04-2017-Class-Repository/14-handlebars/01-Activities/23-CatsAppSolution/models/cat.js",
+		"/Users/OLDHELEN/Desktop/Bootcamp/04-2017-Class-Repository/14-handlebars/01-Activities/21-MvcExample/config/orm.js",
+		"/Users/OLDHELEN/Desktop/Bootcamp/04-2017-Class-Repository/14-handlebars/01-Activities/21-MvcExample/config/connection.js",
+		"/Users/OLDHELEN/Desktop/Bootcamp/04-2017-Class-Repository/14-handlebars/01-Activities/04-HandlebarsLunch/views/layouts/main.handlebars",
+		"/Users/OLDHELEN/Desktop/Bootcamp/04-2017-Class-Repository/12-mysql/01-Activities/12-Top5000Schema/schema.sql",
+		"/Users/OLDHELEN/Desktop/Bootcamp/04-2017-Class-Repository/14-handlebars/01-Activities/17-PartyDatabase/Solved/db/schema.sql",
+		"/Users/OLDHELEN/Desktop/Bootcamp/hot-restaurant/server.js",
+		"/Users/OLDHELEN/Downloads/liri-app-master/liri.js",
+		"/Users/OLDHELEN/Downloads/Edna/liri.js",
+		"/Users/OLDHELEN/Downloads/LIRI-master/liri.js",
+		"/Users/OLDHELEN/Downloads/liri-node-app-master/liri.js",
+		"/Users/OLDHELEN/Desktop/Ex_Files_UaR_Node/Exercise Files/07_01/generator-functions-demo.js",
+		"/Users/OLDHELEN/Desktop/Ex_Files_UaR_Node/Exercise Files/01_03/sync-demo.js",
+		"/Users/OLDHELEN/Desktop/Ex_Files_UaR_Node/Exercise Files/01_03/async-demo.js",
+		"/Users/OLDHELEN/Desktop/project-one/assets/css/style.css",
+		"/Users/OLDHELEN/Desktop/Bootcamp/project-one/assets/javascript/app.js",
+		"/Users/OLDHELEN/Desktop/Bootcamp/project-one/index.html",
+		"/Users/OLDHELEN/Desktop/project-one/index.html",
+		"/Users/OLDHELEN/Desktop/project-one/assets/javascript/app.js",
+		"/Users/OLDHELEN/Desktop/test-one/TestOnedownload.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/archived/Critter-Giphy/index.html",
+		"/Users/OLDHELEN/Desktop/project-one/materialize/css/materialize.css",
+		"/Users/OLDHELEN/Desktop/Bootcamp/project-one/landingrev2.html",
+		"/Users/OLDHELEN/Downloads/parallax-template/index.html",
+		"/Users/OLDHELEN/Desktop/parallax-template/js/init.js",
+		"/Users/OLDHELEN/Desktop/Bootcamp/project-one/landing.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/templates/template.html",
+		"/Users/OLDHELEN/enigmatic-reaches-47404/package.json",
+		"/Users/OLDHELEN/Downloads/us.sitesucker.mac.sitesucker/afternoon-hollows-84170.herokuapp.com/assets7/javascript7/javascript7.js",
+		"/Users/OLDHELEN/Desktop/afternoon-hollows-84170.herokuapp.com/assets7/css7/style7.css",
+		"/Users/OLDHELEN/Desktop/afternoon-hollows-84170.herokuapp.com/assets7/javascript7/javascript7.js",
+		"/Users/OLDHELEN/Downloads/Train-Scheduler-master 2/index.html",
+		"/Users/OLDHELEN/Downloads/Train-Scheduler-master 2/assets/javascript/app.js",
+		"/Users/OLDHELEN/Desktop/homework001/train_schedule.html",
+		"/Users/OLDHELEN/Desktop/train-0007/logic.js",
+		"/Users/OLDHELEN/Downloads/1week7_fireBase-master/assets/js/app.js",
+		"/Users/OLDHELEN/Downloads/3TrainProject-master/Train.js",
+		"/Users/OLDHELEN/Downloads/TrainProject-master/jscript.js",
+		"/Users/OLDHELEN/Desktop/afternoon-hollows-84170.herokuapp.com/index.html",
+		"/Users/OLDHELEN/Downloads/us.sitesucker.mac.sitesucker/afternoon-hollows-84170.herokuapp.com/index.html",
+		"/Users/OLDHELEN/Downloads/us.sitesucker.mac.sitesucker/afternoon-hollows-84170.herokuapp.com/assets7/css7/style7.css",
+		"/Users/OLDHELEN/Desktop/employee/emplyeeindex.html",
+		"/Users/OLDHELEN/Desktop/test.html",
+		"/Users/OLDHELEN/Desktop/NewDateGolf20173a.pdf",
+		"/Users/OLDHELEN/Desktop/Bootcamp/04-2017-Class-Repository/07-firebase/01-Activities/06-cookies-demo/6-instructor-do-cookies-intro.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/WK7_TrainScheduler/index.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/WK7_TrainScheduler/javascript/javascript.js",
+		"/Users/OLDHELEN/Desktop/Bootcamp/WK7_TrainScheduler/css/style.css",
+		"/Users/OLDHELEN/Desktop/Bootcamp/WK7_TrainScheduler/template.html",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_3/data_start.html",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_3/props_start.htm",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_3/css_start.htm",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_3/attributes_start.htm",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_3/altering_start.htm",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_3/inserting_start.htm",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_2/traversing_start.html",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_2/ChildVisCont_start.html",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_2/AttrFilters_start.html",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_2/HierCombo_start.html",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_2/BasicFilters_start.html",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_2/BasicSelectors_start.htm",
+		"/Users/OLDHELEN/Downloads/1-student-do-todolist-solution.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/Critter-Giphy/index.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/Critter-Giphy/assets/css/style.css",
+		"/Users/OLDHELEN/Dropbox/Public/Bootcamp Misc/AJAX_Giphy/CrittersGiphy.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/Critter-Giphy/assets/js/javascript.js",
+		"/Users/OLDHELEN/Downloads/GiphyApiHw-master/assets/javascript/api.js",
+		"/Users/OLDHELEN/Downloads/Giphy-Search-master/assets/javascript/giphy.js",
+		"/Users/OLDHELEN/Downloads/giphy-API-master/index.html",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_1/FirstjQueryPage_start.html",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_1/SelectFilter_intro.htm",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JQuery_EssT/Exercise Files/Ch_1/AJAX_intro.html",
+		"/Users/OLDHELEN/Downloads/giphy-API-master/assets/javascript/javascript.js",
+		"/Users/OLDHELEN/Desktop/Bootcamp/archived /Trivia_Game/index.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/archived /Psychic-Game/assets/javascript/game.js",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JavaScript_EssT/Exercise Files/10_06/index.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/04-2017-Class-Repository/06-ajax/01-Class-Content/6.1/Activities/04-Giphy_API/giphy-api.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/04-2017-Class-Repository/06-ajax/StudentGuide.md",
+		"/Users/OLDHELEN/Desktop/GiphytPreWork9.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/Trivia_Game/index5.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/Trivia_Game/assets/javascript/game2copy.js",
+		"/Users/OLDHELEN/Desktop/Bootcamp/Trivia_Game/index4.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/Trivia_Game/index.html",
+		"/Users/OLDHELEN/Downloads/Crystal-Collectors-master/index.html",
+		"/Users/OLDHELEN/Downloads/trivia-game2/index.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/04-2017-Class-Repository/04-jquery/1-Class-Content/4.1/Activities/07-TriggerRandom/Solved/trigger-random-solved.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/04-2017-Class-Repository/04-jquery/1-Class-Content/4.1/Activities/02-JSDrinkList/Unsolved/drinklist-unsolved.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/04-2017-Class-Repository/03-intro-js-hangman-dom/1-Class-Content/3.2/Activities/09-RPS-Coded/rps-9.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/Trivia_Game/assets/javascript/game.js",
+		"/Users/OLDHELEN/Desktop/Bootcamp/04-2017-Class-Repository/06-ajax/1-Class-Content/6.1/Activities/01-CustomerObject/Unsolved/customer-object.html",
+		"/Users/OLDHELEN/Dropbox/Public/weather.js",
+		"/Users/OLDHELEN/Dropbox/Public/weather_api_demo.html",
+		"/Users/OLDHELEN/Dropbox/Public/style.css",
+		"/Users/OLDHELEN/Desktop/Bootcamp/Trivia_Game/assets/css/style.css",
+		"/Users/OLDHELEN/Desktop/test2.html",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JavaScript_EssT/Exercise Files/02_04/script.js",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JavaScript_EssT/Exercise Files/02_04/index.html",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JavaScript_EssT/Exercise Files/02_03/index.html",
+		"/Users/OLDHELEN/Desktop/Ex_Files_JavaScript_EssT/Exercise Files/02_02/index.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/04-2017-Class-Repository/03-intro-js-hangman-dom/1-Class-Content/3.3/Activities/28-GoodArray/good-array.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/Trivia_Game/template.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/Templates/assets/css/style.css",
+		"/Users/OLDHELEN/Desktop/Bootcamp/week-4-game/index.html",
+		"/Users/OLDHELEN/Desktop/Bootcamp/week-4-game/assets/javascript/game.js",
+		"/Users/OLDHELEN/Desktop/Bootcamp/week-4-game/assets/css/style.css",
+		"/Users/OLDHELEN/Downloads/crystal-game-master/assets/javascript/javascript2.js",
+		"/Users/OLDHELEN/Desktop/Bootcamp/intaglioplate312.github.io/index.html"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "news_recap_cpd.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"assets/images/icons/email.svg"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
